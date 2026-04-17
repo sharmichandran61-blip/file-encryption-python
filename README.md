@@ -48,14 +48,3 @@ Khoor Zruog
 
 ### 🔹 Decrypted Output
 Hello World
-
-(Note: Output may vary based on encryption logic used)
-
-✅ 📸 Screenshots (Optional but Powerful)
-## 📸 Screenshots
-
-### 🔹 Encryption Process
-![Encryption Screenshot](screenshots/encrypt.png)
-
-### 🔹 Decryption Process
-![Decryption Screenshot](screenshots/decrypt.png)
